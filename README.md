@@ -10,6 +10,8 @@ A script for 2Take1's Lua Engine
 - Toggle blamed <yourself/random/specific>
 - Change camera shake value 1-100
 - Change explosion delay
+  
+Thanks to dyl for the feature list
 
 ## How to install
 Download "Ghost's Explosion Loop.lua" from [**releases**](https://github.com/GhustOne/GhostsExplodeAll/releases)
