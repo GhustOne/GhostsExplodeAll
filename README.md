@@ -3,7 +3,7 @@ A script for 2Take1's Lua Engine
 > thanks to kektram and all the others who taught me more about lua
 
 ## Features
-- Toggle explode all + <explosion type>
+- Toggle explode all + \<explosion type\>
 - Toggle explosion is audible
 - Toggle explosion is invisible
 - Toggle freeze lobby
