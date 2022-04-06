@@ -2,6 +2,15 @@
 A script for 2Take1's Lua Engine
 > thanks to kektram and all the others who taught me more about lua
 
+## Features
+- Toggle explode all + <explosion type>
+- Toggle explosion is audible
+- Toggle explosion is invisible
+- Toggle freeze lobby
+- Toggle blamed <yourself/random/specific>
+- Change camera shake value 1-100
+- Change explosion delay
+
 ## How to install
 Download "Ghost's Explosion Loop.lua" from [**releases**](https://github.com/GhustOne/GhostsExplodeAll/releases)
 
